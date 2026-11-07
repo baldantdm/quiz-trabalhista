@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "category": "jornada",
+    "title": "O que conta como hora extra?",
+    "statement": "Afirmação: \"Qualquer tempo trabalhado além do limite legal ou contratual (em regra, 8 horas diárias e 44 horas semanais) é considerado hora extraordinária.\"",
+    "options": [
+      {
+        "id": "1a",
+        "text": "MITO — Apenas o trabalho realizado aos domingos é contabilizado como hora extraordinária.",
+        "isCorrect": false
+      },
+      {
+        "id": "1b",
+        "text": "MITO — Só existe hora extra quando o trabalhador supera 10 horas diárias no mesmo turno.",
+        "isCorrect": false
+      },
+      {
+        "id": "1c",
+        "text": "FATO — O trabalho que ultrapassa a jornada normal diária (8h) ou semanal (44h), salvo compensação válida, configura hora extra.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Qualquer tempo à disposição ou trabalhado além do limite legal (em regra, 8h diárias e 44h semanais) ou contratual deve ser remunerado como hora extra ou devidamente compensado em banco de horas regular.",
+    "legalBasis": "CF/88, Art. 7º, XIII e CLT, Art. 58",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 2,
+    "category": "jornada",
+    "title": "Qual é o adicional mínimo da hora extra?",
+    "statement": "Afirmação: \"O adicional mínimo para horas extras em dias úteis normais é de 20%, passando para 50% apenas em domingos e feriados.\"",
+    "options": [
+      {
+        "id": "2a",
+        "text": "MITO — O adicional é sempre fixo em 30% independentemente do dia da semana.",
+        "isCorrect": false
+      },
+      {
+        "id": "2b",
+        "text": "MITO — O adicional mínimo constitucional é de 50% em dias úteis normais e de 100% em domingos e feriados não compensados.",
+        "isCorrect": true
+      },
+      {
+        "id": "2c",
+        "text": "FATO — A legislação prevê 20% para dias úteis e 50% para finais de semana.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A Constituição Federal e a CLT asseguram que a hora extra em dias úteis vale, no mínimo, 50% a mais que a hora normal. Em domingos e feriados (sem folga compensatória), o adicional é de 100%.",
+    "legalBasis": "CF/88, Art. 7º, XVI; CLT, Art. 59, § 1º; Lei nº 605/1949",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 3,
+    "category": "jornada",
+    "title": "Minutos que antecedem/sucedem o ponto geram hora extra?",
+    "statement": "Afirmação: \"Variações de horário no registro de ponto não excedentes de 5 minutos em cada batida, observado o limite máximo de 10 minutos diários, não são descontadas nem computadas como jornada extraordinária.\"",
+    "options": [
+      {
+        "id": "3a",
+        "text": "MITO — Qualquer minuto a mais ou a menos gera desconto ou hora extra imediata.",
+        "isCorrect": false
+      },
+      {
+        "id": "3b",
+        "text": "FATO — A CLT estabelece tolerância de até 5 minutos na entrada ou saída, limitada a 10 minutos no total diário.",
+        "isCorrect": true
+      },
+      {
+        "id": "3c",
+        "text": "MITO — A tolerância legal é de 30 minutos por batida de ponto.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pequenas variações na marcação do ponto (até 5 minutos antes ou depois de cada registro, somando no máximo 10 minutos por dia) são consideradas tempo de tolerância legal e não geram nem desconto salarial nem pagamento de hora extra.",
+    "legalBasis": "CLT, Art. 58, § 1º",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 4,
+    "category": "jornada",
+    "title": "Responder WhatsApp do chefe fora do expediente gera hora extra?",
+    "statement": "Afirmação: \"Mensagens e cobranças de trabalho fora do expediente nunca caracterizam tempo à disposição ou hora extra, pois ocorrem pelo celular.\"",
+    "options": [
+      {
+        "id": "4a",
+        "text": "MITO — Qualquer mensagem recebida, mesmo um aviso informativo sem exigência de resposta, gera automaticamente 2 horas extras.",
+        "isCorrect": false
+      },
+      {
+        "id": "4b",
+        "text": "FATO — Meios telemáticos como aplicativos de mensagens estão fora do alcance da legislação trabalhista.",
+        "isCorrect": false
+      },
+      {
+        "id": "4c",
+        "text": "MITO — Se houver cobrança habitual de tarefas ou regime de sobreaviso formalizado fora da jornada, pode gerar direito a horas extras ou sobreaviso.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "A CLT equipara os meios telemáticos e informatizados de comando e supervisão aos meios pessoais para fins de subordinação. Quando há acionamento habitual exigindo trabalho fora do expediente, o tempo efetivamente trabalhado é computado como jornada extraordinária.",
+    "legalBasis": "CLT, Art. 6º, Parágrafo único e Art. 4º",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 5,
+    "category": "jornada",
+    "title": "Existe limite diário para realização de horas extras?",
+    "statement": "Afirmação: \"A CLT limita a prorrogação da jornada normal de trabalho a, no máximo, 2 horas extras por dia (salvo situações excepcionais de força maior ou necessidade imperiosa).\"",
+    "options": [
+      {
+        "id": "5a",
+        "text": "MITO — Não há qualquer limite legal para horas suplementares se a empresa pagar o adicional.",
+        "isCorrect": false
+      },
+      {
+        "id": "5b",
+        "text": "MITO — A lei permite até 6 horas extras todos os dias mediante acordo verbal.",
+        "isCorrect": false
+      },
+      {
+        "id": "5c",
+        "text": "FATO — A duração diária do trabalho pode ser acrescida de horas extras em número não excedente de 2 horas diárias.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Para proteger a saúde e a segurança do trabalhador, o Art. 59 da CLT limita a realização de horas extras a 2 horas diárias, mediante acordo individual, convenção ou acordo coletivo, ressalvadas hipóteses legais de força maior.",
+    "legalBasis": "CLT, Art. 59, caput e Art. 61",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 6,
+    "category": "jornada",
+    "title": "O que é banco de horas e qual o prazo de compensação?",
+    "statement": "Afirmação: \"O banco de horas pode ser pactuado por acordo individual escrito, desde que a compensação ocorra no período máximo de 6 meses (ou até 1 ano via negociação coletiva).\"",
+    "options": [
+      {
+        "id": "6a",
+        "text": "MITO — O banco de horas só vale se for combinado apenas de forma verbal para compensar em 2 anos.",
+        "isCorrect": false
+      },
+      {
+        "id": "6b",
+        "text": "FATO — O acordo individual escrito permite compensar em até 6 meses, enquanto convenção ou acordo coletivo permite o prazo de até 1 ano.",
+        "isCorrect": true
+      },
+      {
+        "id": "6c",
+        "text": "MITO — O banco de horas nunca expira e pode acumular saldo por 5 anos.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "O banco de horas é um sistema legal de compensação de jornada. Pela CLT, quando firmado por acordo individual escrito, as horas devem ser compensadas em até 6 meses; por acordo ou convenção coletiva (sindicato), o prazo é de até 1 ano.",
+    "legalBasis": "CLT, Art. 59, §§ 2º e 5º",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 7,
+    "category": "jornada",
+    "title": "O trabalhador pode se recusar a fazer hora extra?",
+    "statement": "Afirmação: \"O empregado nunca pode recusar a realização de horas extras, mesmo sem acordo prévio e sem situação de emergência.\"",
+    "options": [
+      {
+        "id": "7a",
+        "text": "FATO — A recusa a qualquer pedido de hora extra no mesmo dia gera demissão por justa causa imediata.",
+        "isCorrect": false
+      },
+      {
+        "id": "7b",
+        "text": "MITO — O trabalhador só é obrigado a fazer horas extras aos domingos.",
+        "isCorrect": false
+      },
+      {
+        "id": "7c",
+        "text": "MITO — O trabalhador pode se recusar, salvo se houver previsão em acordo/convenção ou em casos de força maior e serviços inadiáveis.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "As horas extras dependem de acordo escrito ou instrumento coletivo. Sem previsão contratual/coletiva ou motivo de força maior / necessidade imperiosa (Art. 61 da CLT), o empregado não é obrigado a estender sua jornada.",
+    "legalBasis": "CLT, Art. 59 e Art. 61",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 8,
+    "category": "jornada",
+    "title": "Como funciona o intervalo para almoço (intrajornada)?",
+    "statement": "Afirmação: \"Para jornadas acima de 6 horas diárias, o intervalo mínimo legal para repouso e alimentação é de 1 hora (podendo ser reduzido até o limite de 30 minutos apenas por convenção ou acordo coletivo), e de 15 minutos para jornadas de 4h a 6h.\"",
+    "options": [
+      {
+        "id": "8a",
+        "text": "FATO — Jornadas acima de 6h exigem mínimo de 1h (redutível para 30 min via negociação coletiva), e jornadas de 4h a 6h exigem 15 minutos.",
+        "isCorrect": true
+      },
+      {
+        "id": "8b",
+        "text": "MITO — O intervalo de almoço já está incluído dentro das 8 horas trabalhadas.",
+        "isCorrect": false
+      },
+      {
+        "id": "8c",
+        "text": "MITO — Quem trabalha 8 horas diárias tem direito a apenas 15 minutos de intervalo.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "O intervalo intrajornada visa preservar a higidez física e mental do trabalhador: até 4h de jornada não há intervalo obrigatório; de 4h a 6h são 15 minutos; acima de 6h o mínimo é de 1 hora (e máximo de 2h, salvo acordo), só podendo ser reduzido para 30 minutos por norma coletiva.",
+    "legalBasis": "CLT, Art. 71 e Art. 611-A, III",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 9,
+    "category": "jornada",
+    "title": "O que acontece se a empresa suprimir o intervalo de almoço?",
+    "statement": "Afirmação: \"Se o empregador conceder apenas 40 minutos de um intervalo de 1 hora, deverá indenizar apenas os 20 minutos suprimidos, com acréscimo de 50% sobre o valor da hora normal.\"",
+    "options": [
+      {
+        "id": "9a",
+        "text": "MITO — A empresa deve pagar um salário mínimo inteiro por cada intervalo reduzido.",
+        "isCorrect": false
+      },
+      {
+        "id": "9b",
+        "text": "MITO — A supressão parcial do intervalo não gera qualquer dever de pagamento.",
+        "isCorrect": false
+      },
+      {
+        "id": "9c",
+        "text": "FATO — A não concessão total ou parcial do intervalo implica o pagamento, de natureza indenizatória, apenas do período suprimido com acréscimo de 50%.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "De acordo com o Art. 71, § 4º da CLT (com a redação dada pela Lei nº 13.467/2017), a supressão parcial ou total do intervalo intrajornada obriga o empregador a pagar o período suprimido com acréscimo de 50%, possuindo natureza indenizatória.",
+    "legalBasis": "CLT, Art. 71, § 4º",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 10,
+    "category": "jornada",
+    "title": "O que é intervalo interjornada?",
+    "statement": "Afirmação: \"Entre o fim de uma jornada de trabalho e o início da seguinte, deve haver um período mínimo de 11 horas consecutivas para descanso.\"",
+    "options": [
+      {
+        "id": "10a",
+        "text": "MITO — O descanso mínimo entre dois turnos em dias seguidos é de apenas 6 horas.",
+        "isCorrect": false
+      },
+      {
+        "id": "10b",
+        "text": "MITO — Não existe regra legal sobre o tempo de descanso entre um dia de trabalho e outro.",
+        "isCorrect": false
+      },
+      {
+        "id": "10c",
+        "text": "FATO — O intervalo interjornada mínimo obrigatório pela CLT é de 11 horas consecutivas entre dois dias de trabalho.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "O Art. 66 da CLT determina que entre duas jornadas de trabalho haverá um período mínimo de 11 horas consecutivas para descanso. O desrespeito a esse tempo mínimo obriga ao pagamento das horas subtraídas como extraordinárias.",
+    "legalBasis": "CLT, Art. 66 e Súmula 110 do TST",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 11,
+    "category": "remuneracao",
+    "title": "Até que dia o salário deve ser pago?",
+    "statement": "Afirmação: \"No pagamento mensal, o salário deve ser quitado, o mais tardar, até o 5º dia útil do mês subsequente ao vencido (contando-se o sábado como dia útil).\"",
+    "options": [
+      {
+        "id": "11a",
+        "text": "FATO — O limite legal é o 5º dia útil do mês seguinte ao trabalhado, considerando-se o sábado como dia útil para essa contagem.",
+        "isCorrect": true
+      },
+      {
+        "id": "11b",
+        "text": "MITO — A lei permite o pagamento do salário mensal até o dia 15 do mês seguinte sem atraso.",
+        "isCorrect": false
+      },
+      {
+        "id": "11c",
+        "text": "MITO — O sábado e a segunda-feira nunca entram na contagem de dias úteis para salário.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Conforme o Art. 459, § 1º da CLT, o pagamento mensal deve ser efetuado até o 5º dia útil do mês subsequente ao vencido. Para fins trabalhistas de pagamento salarial (IN SRT nº 2/2021), o sábado é considerado dia útil.",
+    "legalBasis": "CLT, Art. 459, § 1º",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 12,
+    "category": "remuneracao",
+    "title": "A empresa pode descontar danos materiais causados pelo funcionário?",
+    "statement": "Afirmação: \"A empresa pode descontar qualquer prejuízo ou quebra de equipamento do salário do trabalhador automaticamente, mesmo sem culpa, sem intenção e sem previsão no contrato.\"",
+    "options": [
+      {
+        "id": "12a",
+        "text": "FATO — O risco da atividade econômica pode ser transferido integralmente ao empregado em qualquer situação.",
+        "isCorrect": false
+      },
+      {
+        "id": "12b",
+        "text": "MITO — A empresa nunca pode descontar danos, nem mesmo quando o funcionário quebra o equipamento propositalmente (dolo).",
+        "isCorrect": false
+      },
+      {
+        "id": "12c",
+        "text": "MITO — O desconto por dano só é lícito se houver dolo (intenção) do empregado, ou em caso de culpa desde que essa possibilidade tenha sido acordada no contrato.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Pelo princípio da intangibilidade salarial (Art. 462, § 1º da CLT), em caso de dano causado pelo empregado, o desconto só é permitido se houver dolo (intenção comprovada) ou se houver culpa (negligência/imprudência) com previsão expressa no contrato de trabalho.",
+    "legalBasis": "CLT, Art. 462, § 1º",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 13,
+    "category": "remuneracao",
+    "title": "O que é o 13º salário e quais os prazos de pagamento?",
+    "statement": "Afirmação: \"A gratificação natalina (13º salário) deve ser paga em duas parcelas: a 1ª entre 1º de fevereiro e 30 de novembro, e a 2ª até o dia 20 de dezembro.\"",
+    "options": [
+      {
+        "id": "13a",
+        "text": "FATO — A 1ª parcela (adiantamento) vence até 30 de novembro e a 2ª parcela (com os descontos legais de INSS/IRRF) vence até 20 de dezembro.",
+        "isCorrect": true
+      },
+      {
+        "id": "13b",
+        "text": "MITO — O 13º salário pode ser pago em parcela única até o final de janeiro do ano seguinte.",
+        "isCorrect": false
+      },
+      {
+        "id": "13c",
+        "text": "MITO — Só tem direito ao 13º salário quem trabalha na empresa há mais de 2 anos completos.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "O 13º salário corresponde a 1/12 da remuneração devida em dezembro por mês trabalhado (ou fração igual ou superior a 15 dias). Seu pagamento é dividido em duas parcelas legais: até 30 de novembro (1ª parcela) e até 20 de dezembro (2ª parcela).",
+    "legalBasis": "Lei nº 4.090/1962 e Lei nº 4.749/1965",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 14,
+    "category": "remuneracao",
+    "title": "Vale-transporte pode ser pago em dinheiro ou descontado integralmente?",
+    "statement": "Afirmação: \"O empregador pode descontar até 20% do salário-base do trabalhador para custear o vale-transporte.\"",
+    "options": [
+      {
+        "id": "14a",
+        "text": "FATO — A empresa pode descontar até 20% ou o valor integral das passagens no contracheque.",
+        "isCorrect": false
+      },
+      {
+        "id": "14b",
+        "text": "MITO — O desconto do empregado para o vale-transporte é limitado a, no máximo, 6% do seu salário-base, cabendo ao empregador pagar o valor excedente.",
+        "isCorrect": true
+      },
+      {
+        "id": "14c",
+        "text": "MITO — O vale-transporte não permite nenhum desconto em folha de pagamento.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A Lei do Vale-Transporte determina que o empregador participe dos gastos de deslocamento do trabalhador com a ajuda de custo que exceder a 6% do salário básico. Em regra, é vedado substituir o vale-transporte por dinheiro, salvo exceções previstas em norma coletiva ou falha no sistema de emissão.",
+    "legalBasis": "Lei nº 7.418/1985, Art. 4º, Parágrafo único e Decreto nº 10.854/2021",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 15,
+    "category": "remuneracao",
+    "title": "Atraso reiterado de salário gera indenização ou rescisão?",
+    "statement": "Afirmação: \"O atraso reiterado (frequente/contumaz) no pagamento de salários configura falta grave do empregador, podendo ensejar a rescisão indireta do contrato de trabalho.\"",
+    "options": [
+      {
+        "id": "15a",
+        "text": "FATO — A mora salarial contumaz representa descumprimento grave das obrigações do contrato, autorizando a rescisão indireta na forma da lei.",
+        "isCorrect": true
+      },
+      {
+        "id": "15b",
+        "text": "MITO — O atraso de salários por vários meses não gera nenhuma consequência jurídica ao contrato.",
+        "isCorrect": false
+      },
+      {
+        "id": "15c",
+        "text": "MITO — Em caso de atraso reiterado, o trabalhador perde o direito ao FGTS.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "O salário possui natureza alimentar. O atraso reiterado no seu pagamento configura descumprimento das obrigações contratuais pelo empregador (Art. 483, 'd', da CLT), hipótese que a legislação e a jurisprudência reconhecem como ensejadora de rescisão indireta.",
+    "legalBasis": "CLT, Art. 483, alínea 'd' e Súmula 13 do TST",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 16,
+    "category": "remuneracao",
+    "title": "Salário pago \"por fora\" (sem holerite) é crime ou irregularidade?",
+    "statement": "Afirmação: \"O pagamento de valores salariais 'por fora' (sem registro no contracheque) é regular desde que o funcionário concorde verbalmente.\"",
+    "options": [
+      {
+        "id": "16a",
+        "text": "FATO — Acordos verbais para pagamento sem recibo isentam o valor de reflexos em férias e FGTS.",
+        "isCorrect": false
+      },
+      {
+        "id": "16b",
+        "text": "MITO — É uma irregularidade trabalhista e fiscal; o valor pago habitualmente 'por fora' tem natureza salarial e deve integrar o cálculo de FGTS, férias, 13º e INSS.",
+        "isCorrect": true
+      },
+      {
+        "id": "16c",
+        "text": "MITO — O salário pago por fora só integra o cálculo do aviso prévio, mas não conta para aposentadoria.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "O pagamento extrafolha ('por fora') viola a legislação trabalhista e previdenciária, prejudicando os depósitos de FGTS, a contribuição ao INSS e o cálculo de férias e 13º salário. Pela CLT, toda parcela salarial habitual deve constar no recibo de pagamento.",
+    "legalBasis": "CLT, Art. 457 e Art. 464",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 17,
+    "category": "remuneracao",
+    "title": "O empregador pode reduzir o salário do trabalhador?",
+    "statement": "Afirmação: \"Em regra, o salário do trabalhador é irredutível, salvo o disposto em convenção ou acordo coletivo de trabalho.\"",
+    "options": [
+      {
+        "id": "17a",
+        "text": "FATO — A irredutibilidade salarial é uma garantia constitucional, admitindo exceção apenas mediante negociação coletiva com o sindicato.",
+        "isCorrect": true
+      },
+      {
+        "id": "17b",
+        "text": "MITO — O salário pode ser reduzido a qualquer momento por simples aviso no quadro de funcionários.",
+        "isCorrect": false
+      },
+      {
+        "id": "17c",
+        "text": "MITO — A empresa pode reduzir o salário em até 30% unilateralmente caso suas vendas diminuam.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A Constituição Federal garante a irredutibilidade do salário como direito fundamental dos trabalhadores (Art. 7º, VI), e o Art. 468 da CLT veda alterações contratuais lesivas ao empregado.",
+    "legalBasis": "CF/88, Art. 7º, VI e CLT, Art. 468",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 18,
+    "category": "remuneracao",
+    "title": "Gorjetas integram o salário?",
+    "statement": "Afirmação: \"As gorjetas integram a remuneração do empregado (refletindo em férias, 13º salário e FGTS), mas não servem de base de cálculo para aviso prévio, adicional noturno, horas extras e repouso semanal remunerado.\"",
+    "options": [
+      {
+        "id": "18a",
+        "text": "MITO — As gorjetas podem substituir integralmente o salário-base pago pelo empregador.",
+        "isCorrect": false
+      },
+      {
+        "id": "18b",
+        "text": "FATO — A gorjeta compõe a remuneração, mas a Súmula 354 do TST exclui sua incidência sobre aviso prévio, adicional noturno, horas extras e DSR.",
+        "isCorrect": true
+      },
+      {
+        "id": "18c",
+        "text": "MITO — Gorjetas não têm nenhuma relação com direitos trabalhistas nem incidem no FGTS.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A CLT diferencia salário (pago diretamente pelo empregador) de remuneração (salário + gorjetas). Por isso, as gorjetas geram reflexos na remuneração (como FGTS, 13º e férias), mas não compõem a base das parcelas calculadas estritamente sobre o salário-base (Súmula 354 do TST).",
+    "legalBasis": "CLT, Art. 457, caput e § 3º; Súmula 354 do TST",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 19,
+    "category": "remuneracao",
+    "title": "Quem ganha comissão tem direito ao salário mínimo garantido?",
+    "statement": "Afirmação: \"O empregado comissionista puro (que recebe apenas por vendas) pode receber menos de um salário mínimo no mês em que as vendas forem baixas.\"",
+    "options": [
+      {
+        "id": "19a",
+        "text": "MITO — A empresa pode emprestar a diferença do salário mínimo e descontar no mês seguinte.",
+        "isCorrect": false
+      },
+      {
+        "id": "19b",
+        "text": "MITO — Mesmo quem recebe exclusivamente por comissão tem garantido, todo mês, pelo menos o salário mínimo legal ou o piso da categoria.",
+        "isCorrect": true
+      },
+      {
+        "id": "19c",
+        "text": "FATO — Se o vendedor não atingir a meta, pode receber zero no fim do mês.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A Constituição Federal garante salário nunca inferior ao mínimo, inclusive para os que percebem remuneração variável. Se as comissões do mês não atingirem o salário mínimo (ou o piso normativo da categoria), o empregador deve complementar o valor, sem descontar essa complementação nos meses seguintes.",
+    "legalBasis": "CF/88, Art. 7º, VII e CLT, Art. 78",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 20,
+    "category": "remuneracao",
+    "title": "O que é o adicional noturno e quanto vale?",
+    "statement": "Afirmação: \"Para o trabalhador urbano, o trabalho noturno é aquele executado entre as 22 horas de um dia e as 5 horas do dia seguinte, com acréscimo mínimo de 20% e hora noturna computada como 52 minutos e 30 segundos.\"",
+    "options": [
+      {
+        "id": "20a",
+        "text": "FATO — No trabalho urbano, o horário noturno vai das 22h às 5h, tem adicional mínimo de 20% e cada hora noturna dura 52min30s.",
+        "isCorrect": true
+      },
+      {
+        "id": "20b",
+        "text": "MITO — A hora noturna tem exatamente 60 minutos como a hora diurna.",
+        "isCorrect": false
+      },
+      {
+        "id": "20c",
+        "text": "MITO — O horário noturno começa às 19h e tem adicional fixo de 10%.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Devido ao maior desgaste biológico do trabalho à noite, a CLT assegura ao trabalhador urbano que atua das 22h às 5h um adicional de pelo menos 20% sobre a hora diurna, além da redução ficta da hora noturna (cada 52 minutos e 30 segundos equivalem a 1 hora de trabalho).",
+    "legalBasis": "CLT, Art. 73, caput e §§ 1º e 2º",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 21,
+    "category": "ferias",
+    "title": "Quando o trabalhador ganha direito às férias?",
+    "statement": "Afirmação: \"Após cada período de 12 meses de vigência do contrato de trabalho (período aquisitivo), o empregado adquire direito às férias, e o empregador tem os 12 meses subsequentes (período concessivo) para concedê-las.\"",
+    "options": [
+      {
+        "id": "21a",
+        "text": "MITO — O trabalhador deve sair de férias obrigatoriamente no dia seguinte ao completar 1 ano de empresa.",
+        "isCorrect": false
+      },
+      {
+        "id": "21b",
+        "text": "MITO — Só há direito a férias após 24 meses seguidos sem faltas.",
+        "isCorrect": false
+      },
+      {
+        "id": "21c",
+        "text": "FATO — São 12 meses de trabalho para adquirir o direito (período aquisitivo) e os 12 meses seguintes para o empregador conceder o descanso (período concessivo).",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "A sistemática de férias na CLT divide-se em dois momentos: o período aquisitivo (12 meses de trabalho em que o direito é conquistado) e o período concessivo (os 12 meses posteriores nos quais a empresa organiza e concede o gozo das férias).",
+    "legalBasis": "CLT, Art. 130 e Art. 134",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 22,
+    "category": "ferias",
+    "title": "O que acontece se a empresa não conceder férias no prazo?",
+    "statement": "Afirmação: \"Sempre que as férias forem concedidas após o prazo legal de 12 meses do período concessivo, o empregador deverá pagar em dobro a respectiva remuneração.\"",
+    "options": [
+      {
+        "id": "22a",
+        "text": "MITO — Se passar o prazo de concessão, o trabalhador perde o direito às férias daquele ano.",
+        "isCorrect": false
+      },
+      {
+        "id": "22b",
+        "text": "MITO — A empresa pode acumular até 3 férias vencidas sem qualquer penalidade.",
+        "isCorrect": false
+      },
+      {
+        "id": "22c",
+        "text": "FATO — Ultrapassado o período concessivo sem que o empregado usufrua das férias, os dias gozados fora do prazo devem ser remunerados em dobro.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "O Art. 137 da CLT protege o direito ao descanso anual: caso as férias sejam concedidas após o término do período concessivo (os 12 meses subsequentes à aquisição), o empregador é obrigado a pagar em dobro a remuneração correspondente.",
+    "legalBasis": "CLT, Art. 137",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 23,
+    "category": "ferias",
+    "title": "Férias podem ser fracionadas?",
+    "statement": "Afirmação: \"Desde que haja concordância do empregado, as férias podem ser usufruídas em até 3 períodos, sendo que um deles não poderá ser inferior a 14 dias corridos e os demais não poderão ser inferiores a 5 dias corridos, cada um.\"",
+    "options": [
+      {
+        "id": "23a",
+        "text": "MITO — As férias podem ser divididas em 6 períodos de 5 dias cada.",
+        "isCorrect": false
+      },
+      {
+        "id": "23b",
+        "text": "FATO — A CLT permite o fracionamento em até 3 períodos com a concordância do trabalhador, respeitados os mínimos de 14 dias em um período e 5 dias nos demais.",
+        "isCorrect": true
+      },
+      {
+        "id": "23c",
+        "text": "MITO — É proibido dividir férias em mais de 1 período sob qualquer hipótese.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Com a atualização do Art. 134, § 1º da CLT, se o empregado concordar, as férias podem ser divididas em até três períodos, garantindo que pelo menos um bloco tenha 14 dias corridos ou mais, e nenhum dos outros tenha menos de 5 dias corridos.",
+    "legalBasis": "CLT, Art. 134, § 1º",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 24,
+    "category": "ferias",
+    "title": "O funcionário pode \"vender\" as férias (abono pecuniário)?",
+    "statement": "Afirmação: \"O trabalhador pode converter 100% dos seus 30 dias de férias em dinheiro (abono pecuniário) se preferir trabalhar o mês inteiro.\"",
+    "options": [
+      {
+        "id": "24a",
+        "text": "MITO — A lei permite converter em dinheiro apenas 1/3 (até 10 dias) do período de férias a que tiver direito, devendo ser requerido até 15 dias antes do término do período aquisitivo.",
+        "isCorrect": true
+      },
+      {
+        "id": "24b",
+        "text": "MITO — A empresa pode obrigar o funcionário a vender 10 dias de férias contra a vontade dele.",
+        "isCorrect": false
+      },
+      {
+        "id": "24c",
+        "text": "FATO — O trabalhador pode vender os 30 dias de férias sempre que desejar.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "O abono pecuniário ('venda de férias') é uma faculdade do empregado — e não uma imposição da empresa — limitada a 1/3 dos dias de férias (máximo de 10 dias). Os outros 2/3 devem obrigatoriamente ser gozados como descanso. Para ser um direito potestativo, deve ser solicitado até 15 dias antes do fim do período aquisitivo.",
+    "legalBasis": "CLT, Art. 143, caput e § 1º",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 25,
+    "category": "ferias",
+    "title": "Férias podem começar em uma sexta-feira ou pré-feriado?",
+    "statement": "Afirmação: \"A empresa pode iniciar as férias de um trabalhador (que folga no fim de semana) em uma sexta-feira ou na véspera de um feriado.\"",
+    "options": [
+      {
+        "id": "25a",
+        "text": "FATO — As férias podem iniciar em qualquer dia da semana, inclusive no sábado ou domingo de folga.",
+        "isCorrect": false
+      },
+      {
+        "id": "25b",
+        "text": "MITO — É expressamente vedado o início das férias no período de dois dias que antecede feriado ou dia de repouso semanal remunerado (DSR).",
+        "isCorrect": true
+      },
+      {
+        "id": "25c",
+        "text": "MITO — As férias só podem começar no dia 1º de cada mês.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "O Art. 134, § 3º da CLT proíbe que as férias comecem nos dois dias que antecedem um feriado ou o dia do descanso semanal remunerado (DSR). Para quem descansa no sábado e domingo, por exemplo, as férias não podem começar na quinta-feira nem na sexta-feira.",
+    "legalBasis": "CLT, Art. 134, § 3º",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 26,
+    "category": "ferias",
+    "title": "Qual o prazo de pagamento das férias?",
+    "statement": "Afirmação: \"O pagamento da remuneração das férias e do terço constitucional deve ser efetuado até 2 dias antes do início do respectivo período de descanso.\"",
+    "options": [
+      {
+        "id": "26a",
+        "text": "MITO — As férias são pagas apenas quando o trabalhador retorna ao serviço.",
+        "isCorrect": false
+      },
+      {
+        "id": "26b",
+        "text": "FATO — A CLT determina que o valor das férias (incluindo o adicional de 1/3) seja pago até 2 dias antes do início da fruição.",
+        "isCorrect": true
+      },
+      {
+        "id": "26c",
+        "text": "MITO — O pagamento pode ser feito junto com a folha salarial do mês seguinte às férias.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Para que o trabalhador disponha de recursos financeiros durante seu descanso, o Art. 145 da CLT exige que a remuneração das férias e, quando for o caso, o abono pecuniário sejam pagos até 2 dias antes do início do período.",
+    "legalBasis": "CLT, Art. 145",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 27,
+    "category": "ferias",
+    "title": "Faltas injustificadas reduzem o número de dias de férias?",
+    "statement": "Afirmação: \"Mais de 5 faltas injustificadas ao longo do período aquisitivo reduzem gradualmente a quantidade de dias de férias a que o trabalhador tem direito.\"",
+    "options": [
+      {
+        "id": "27a",
+        "text": "MITO — Cada falta injustificada pode ser descontada na proporção de 1 para 1 diretamente das férias pelo empregador.",
+        "isCorrect": false
+      },
+      {
+        "id": "27b",
+        "text": "MITO — Faltas sem justificativa nunca interferem na duração das férias.",
+        "isCorrect": false
+      },
+      {
+        "id": "27c",
+        "text": "FATO — Até 5 faltas injustificadas mantêm os 30 dias; de 6 a 14 faltas caem para 24 dias; de 15 a 23 para 18 dias; de 24 a 32 para 12 dias; acima de 32 perde o direito.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "O empregador não pode descontar faltas diretamente dos dias de férias, mas a própria CLT (Art. 130) prevê uma tabela de proporcionalidade: até 5 faltas injustificadas = 30 dias; 6 a 14 = 24 dias; 15 a 23 = 18 dias; 24 a 32 = 12 dias; mais de 32 faltas injustificadas no período aquisitivo = perda do direito às férias daquele período.",
+    "legalBasis": "CLT, Art. 130, I a IV e § 1º",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 28,
+    "category": "ferias",
+    "title": "O que é o terço constitucional de férias?",
+    "statement": "Afirmação: \"Todo trabalhador tem direito ao gozo de férias anuais remuneradas com, pelo menos, um terço (1/3) a mais do que o salário normal.\"",
+    "options": [
+      {
+        "id": "28a",
+        "text": "MITO — O terço de férias é opcional e depende de a empresa ter tido lucro no ano.",
+        "isCorrect": false
+      },
+      {
+        "id": "28b",
+        "text": "FATO — Trata-se de acréscimo obrigatório de 1/3 sobre a remuneração das férias, assegurado pela Constituição Federal.",
+        "isCorrect": true
+      },
+      {
+        "id": "28c",
+        "text": "MITO — O adicional de 1/3 é descontado do 13º salário no final do ano.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "O terço constitucional é um direito fundamental previsto no Art. 7º, XVII da Constituição Federal. Sempre que o trabalhador recebe férias (normais, proporcionais ou vencidas), o valor é acrescido de 1/3.",
+    "legalBasis": "CF/88, Art. 7º, XVII",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 29,
+    "category": "rescisao",
+    "title": "Quais as verbas devidas na demissão sem justa causa?",
+    "statement": "Afirmação: \"Na dispensa sem justa causa (por iniciativa do empregador), o trabalhador tem direito a saldo de salário, aviso prévio, férias vencidas e proporcionais com 1/3, 13º proporcional, saque do FGTS com multa de 40% e guias para o seguro-desemprego (se preencher os requisitos).\"",
+    "options": [
+      {
+        "id": "29a",
+        "text": "MITO — Na demissão sem justa causa o trabalhador não tem direito a férias proporcionais nem 13º proporcional.",
+        "isCorrect": false
+      },
+      {
+        "id": "29b",
+        "text": "FATO — Essa é a modalidade que garante a integralidade das verbas rescisórias e indenizatórias previstas em lei.",
+        "isCorrect": true
+      },
+      {
+        "id": "29c",
+        "text": "MITO — A multa do FGTS na demissão sem justa causa é de apenas 10%.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Quando o empregador encerra o contrato sem motivo de falta grave do empregado, são devidas todas as verbas rescisórias (saldo de salário, aviso prévio trabalhado ou indenizado, 13º proporcional, férias vencidas e proporcionais + 1/3), além da liberação do FGTS com multa indenizatória de 40% e entrega das guias de seguro-desemprego.",
+    "legalBasis": "CLT, Art. 477 e Art. 487; Lei nº 8.036/1990, Art. 18, § 1º",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 30,
+    "category": "rescisao",
+    "title": "Quais as verbas devidas no pedido de demissão pelo empregado?",
+    "statement": "Afirmação: \"Quem pede demissão perde o direito às férias proporcionais e ao 13º salário proporcional.\"",
+    "options": [
+      {
+        "id": "30a",
+        "text": "MITO — No pedido de demissão, o trabalhador recebe saldo de salário, 13º proporcional e férias vencidas e proporcionais + 1/3 (apenas não saca o FGTS, não recebe multa de 40% nem seguro-desemprego).",
+        "isCorrect": true
+      },
+      {
+        "id": "30b",
+        "text": "MITO — No pedido de demissão, o trabalhador saca 100% do FGTS com multa de 40%.",
+        "isCorrect": false
+      },
+      {
+        "id": "30c",
+        "text": "FATO — Quem pede demissão sai apenas com os dias trabalhados no mês, perdendo férias e 13º.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "É um mito muito comum achar que pedir demissão retira o direito às férias proporcionais ou ao 13º salário. Esses direitos já foram adquiridos mês a mês (Súmula 261 do TST e Lei 4.090/62). No pedido de demissão, o empregado recebe saldo de salário, 13º proporcional e férias vencidas/proporcionais + 1/3, mas não saca o FGTS, não recebe multa de 40% e não habilita o seguro-desemprego.",
+    "legalBasis": "CLT, Art. 146, Parágrafo único; Súmula 261 do TST",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 31,
+    "category": "rescisao",
+    "title": "O que é a demissão por acordo mútuo (Art. 484-A da CLT)?",
+    "statement": "Afirmação: \"Na rescisão por acordo entre empregado e empregador (Art. 484-A da CLT), o trabalhador recebe metade do aviso prévio (se indenizado), multa de 20% sobre o FGTS, saca até 80% do saldo do FGTS, mas não tem direito ao seguro-desemprego.\"",
+    "options": [
+      {
+        "id": "31a",
+        "text": "MITO — No acordo legal, o trabalhador tem direito a 5 parcelas de seguro-desemprego.",
+        "isCorrect": false
+      },
+      {
+        "id": "31b",
+        "text": "MITO — Não existe previsão legal na CLT para rescisão por acordo entre patrão e empregado.",
+        "isCorrect": false
+      },
+      {
+        "id": "31c",
+        "text": "FATO — A rescisão consensual prevê 50% do aviso prévio indenizado, 20% de multa do FGTS, saque de até 80% dos depósitos de FGTS e integralidade das demais verbas, sem seguro-desemprego.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Introduzido pelo Art. 484-A da CLT, o distrato (acordo mútuo) permite que empregado e empregador encerrem o vínculo consensualmente: pagam-se por metade o aviso prévio indenizado e a multa do FGTS (20%), e integralmente as demais verbas (saldo de salário, férias + 1/3, 13º). O trabalhador movimenta até 80% do FGTS, sem ingresso no seguro-desemprego.",
+    "legalBasis": "CLT, Art. 484-A",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 32,
+    "category": "rescisao",
+    "title": "Qual é o prazo para a empresa pagar as verbas rescisórias?",
+    "statement": "Afirmação: \"O pagamento das verbas rescisórias deve ser realizado em até 10 dias corridos contados a partir do término do contrato, independentemente de o aviso prévio ter sido trabalhado ou indenizado.\"",
+    "options": [
+      {
+        "id": "32a",
+        "text": "FATO — O prazo legal é unificado em até 10 dias corridos após o encerramento do contrato para qualquer modalidade de aviso prévio.",
+        "isCorrect": true
+      },
+      {
+        "id": "32b",
+        "text": "MITO — Quando o aviso é trabalhado, o pagamento deve ocorrer em 24 horas; quando indenizado, em 30 dias.",
+        "isCorrect": false
+      },
+      {
+        "id": "32c",
+        "text": "MITO — A empresa tem até 60 dias úteis para quitar a rescisão.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Desde a atualização do Art. 477, § 6º da CLT, o prazo para entrega dos documentos da rescisão e pagamento dos valores constantes do instrumento de rescisão é de até 10 dias contados a partir do término do contrato.",
+    "legalBasis": "CLT, Art. 477, § 6º",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 33,
+    "category": "rescisao",
+    "title": "O que acontece se a empresa atrasar a rescisão?",
+    "statement": "Afirmação: \"O atraso no pagamento das verbas rescisórias além do prazo de 10 dias corridos sujeita o empregador ao pagamento de multa em favor do empregado no valor equivalente ao seu salário.\"",
+    "options": [
+      {
+        "id": "33a",
+        "text": "FATO — O descumprimento do prazo do Art. 477, § 6º gera a multa do § 8º, no valor de 1 salário do empregado.",
+        "isCorrect": true
+      },
+      {
+        "id": "33b",
+        "text": "MITO — O atraso na rescisão gera apenas correção pela poupança, sem multa.",
+        "isCorrect": false
+      },
+      {
+        "id": "33c",
+        "text": "MITO — A multa vai apenas para o Governo, e não para o trabalhador.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "O Art. 477, § 8º da CLT determina que a inobservância do prazo de 10 dias para quitação das verbas rescisórias sujeita o infrator à multa a favor do empregado, em valor equivalente ao seu salário, salvo quando, comprovadamente, o trabalhador der causa à mora.",
+    "legalBasis": "CLT, Art. 477, § 8º",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 34,
+    "category": "rescisao",
+    "title": "Como funciona o aviso prévio proporcional?",
+    "statement": "Afirmação: \"O aviso prévio tem duração fixa de 30 dias, independentemente de o trabalhador ter 1 ano ou 20 anos de empresa.\"",
+    "options": [
+      {
+        "id": "34a",
+        "text": "MITO — O aviso prévio dobra a cada ano trabalhado sem limite máximo.",
+        "isCorrect": false
+      },
+      {
+        "id": "34b",
+        "text": "MITO — Ao aviso prévio de 30 dias são acrescidos 3 dias por cada ano completo de serviço prestado na mesma empresa, até o máximo de 60 dias adicionais (totalizando até 90 dias).",
+        "isCorrect": true
+      },
+      {
+        "id": "34c",
+        "text": "FATO — O aviso prévio nunca ultrapassa 30 dias corridos.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A Lei nº 12.506/2011 regulamentou o aviso prévio proporcional ao tempo de serviço: para quem tem até 1 ano de empresa, são 30 dias; a cada ano completo adicional, somam-se 3 dias em favor do empregado dispensado sem justa causa, até o teto de 90 dias totais.",
+    "legalBasis": "Lei nº 12.506/2011 e CF/88, Art. 7º, XXI",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 35,
+    "category": "rescisao",
+    "title": "O que é rescisão indireta?",
+    "statement": "Afirmação: \"A rescisão indireta é a modalidade em que o empregado requer o fim do contrato por falta grave cometida pelo empregador (como ausência prolongada de depósitos de FGTS, atrasos habituais de salário ou rigor excessivo), garantindo verbas equivalentes à demissão sem justa causa.\"",
+    "options": [
+      {
+        "id": "35a",
+        "text": "MITO — Na rescisão indireta reconhecida, o trabalhador perde o direito à multa de 40% do FGTS.",
+        "isCorrect": false
+      },
+      {
+        "id": "35b",
+        "text": "MITO — Rescisão indireta é quando o empregado abandona o emprego sem avisar.",
+        "isCorrect": false
+      },
+      {
+        "id": "35c",
+        "text": "FATO — Conhecida popularmente como a 'justa causa do empregador', está prevista no Art. 483 da CLT quando a empresa descumpre gravemente o contrato.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "O Art. 483 da CLT lista as hipóteses em que o empregado pode considerar rescindido o contrato e pleitear a devida indenização quando o empregador descumpre obrigações contratuais, exige serviços alheios ao contrato ou ilegais, ou trata o trabalhador com rigor excessivo.",
+    "legalBasis": "CLT, Art. 483",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 36,
+    "category": "rescisao",
+    "title": "O que caracteriza a demissão por justa causa?",
+    "statement": "Afirmação: \"A demissão por justa causa só pode ser aplicada pelo empregador quando o trabalhador comete uma falta grave expressamente prevista em lei (Art. 482 da CLT), como ato de improbidade, desídia habitual, insubordinação ou abandono de emprego.\"",
+    "options": [
+      {
+        "id": "36a",
+        "text": "MITO — A empresa pode aplicar justa causa por qualquer motivo que inventar, mesmo sem previsão na CLT.",
+        "isCorrect": false
+      },
+      {
+        "id": "36b",
+        "text": "MITO — Um único atraso de 10 minutos no ano, por si só, já autoriza a demissão imediata por justa causa.",
+        "isCorrect": false
+      },
+      {
+        "id": "36c",
+        "text": "FATO — A justa causa é a penalidade máxima trabalhista e exige falta grave tipificada na legislação, proporcionalidade e imediatidade.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Por ser a sanção mais severa ao trabalhador, a justa causa exige que a conduta se enquadre nas hipóteses taxativas da lei (como improbidade, incontinência de conduta, desídia reiterada, embriaguez em serviço, indisciplina/insubordinação ou abandono de emprego), além de observar a proporcionalidade e a não duplicidade de punição.",
+    "legalBasis": "CLT, Art. 482",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 37,
+    "category": "rescisao",
+    "title": "Trabalhador demitido por justa causa recebe quais verbas?",
+    "statement": "Afirmação: \"Quem é demitido por justa causa perde até mesmo o direito aos dias que já trabalhou no mês (saldo de salário) e às férias vencidas (adquiridas há mais de 12 meses).\"",
+    "options": [
+      {
+        "id": "37a",
+        "text": "FATO — A justa causa zera completamente o acerto rescisório, inclusive os dias já trabalhados.",
+        "isCorrect": false
+      },
+      {
+        "id": "37b",
+        "text": "MITO — Mesmo na justa causa, o trabalhador tem direito garantido ao saldo de salário dos dias trabalhados e às férias vencidas (se houver) acrescidas de 1/3.",
+        "isCorrect": true
+      },
+      {
+        "id": "37c",
+        "text": "MITO — Na justa causa o trabalhador recebe aviso prévio e multa de 40% do FGTS.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Na dispensa por justa causa, o trabalhador perde o direito ao aviso prévio, às férias proporcionais, ao 13º proporcional, ao saque do FGTS, à multa de 40% e ao seguro-desemprego. Porém, os direitos já integralmente adquiridos — o saldo de salário dos dias trabalhados no mês e as férias vencidas + 1/3 — jamais são perdidos.",
+    "legalBasis": "CLT, Art. 146 e Art. 477",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 38,
+    "category": "fgts_beneficios",
+    "title": "Qual o percentual mensal que a empresa deve depositar de FGTS?",
+    "statement": "Afirmação: \"A empresa deve depositar mensalmente na conta vinculada do FGTS do trabalhador o equivalente a 8% da sua remuneração bruta (ou 2% nos contratos de aprendizagem), sendo proibido descontar esse valor do salário do empregado.\"",
+    "options": [
+      {
+        "id": "38a",
+        "text": "MITO — Os 8% do FGTS são descontados todos os meses do salário líquido do trabalhador.",
+        "isCorrect": false
+      },
+      {
+        "id": "38b",
+        "text": "MITO — O depósito de FGTS é opcional para empresas privadas.",
+        "isCorrect": false
+      },
+      {
+        "id": "38c",
+        "text": "FATO — O FGTS é um encargo exclusivo do empregador (8% na regra geral e 2% para jovem aprendiz), sem desconto no contracheque do trabalhador.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "O Fundo de Garantia do Tempo de Serviço (FGTS) é uma obrigação legal do empregador, depositada até o dia 20 de cada mês (conforme legislação vigente do FGTS Digital), correspondente a 8% da remuneração paga ou devida no mês anterior (2% para aprendizes). Não é descontado do salário do empregado.",
+    "legalBasis": "Lei nº 8.036/1990, Art. 15",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 39,
+    "category": "fgts_beneficios",
+    "title": "Como acompanhar os depósitos do FGTS?",
+    "statement": "Afirmação: \"O trabalhador pode fiscalizar mensalmente se a empresa está realizando os depósitos do FGTS de forma gratuita pelo aplicativo oficial 'FGTS' da Caixa Econômica Federal ou via alertas de SMS.\"",
+    "options": [
+      {
+        "id": "39a",
+        "text": "FATO — O acompanhamento do extrato analítico da conta vinculada é gratuito e acessível pelo app oficial do FGTS.",
+        "isCorrect": true
+      },
+      {
+        "id": "39b",
+        "text": "MITO — O trabalhador só consegue ver o saldo do FGTS depois que é demitido da empresa.",
+        "isCorrect": false
+      },
+      {
+        "id": "39c",
+        "text": "MITO — Para consultar o extrato do FGTS é necessária autorização escrita do empregador.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Todo trabalhador tem direito de acesso livre e contínuo ao extrato de sua conta vinculada no aplicativo oficial do FGTS (Caixa), sendo uma prática recomendada de educação financeira e trabalhista conferir regularmente a regularidade dos depósitos.",
+    "legalBasis": "Lei nº 8.036/1990, Art. 17",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 40,
+    "category": "fgts_beneficios",
+    "title": "O que é o Saque-Aniversário do FGTS e o que acontece na demissão?",
+    "statement": "Afirmação: \"Quem adere opcionalmente à sistemática do Saque-Aniversário do FGTS, caso seja demitido sem justa causa, saca apenas a multa rescisória de 40%, ficando o saldo principal da conta retido para os saques anuais (salvo regras legais de transição/retorno).\"",
+    "options": [
+      {
+        "id": "40a",
+        "text": "MITO — Quem opta pelo Saque-Aniversário perde até mesmo o direito à multa de 40% se for demitido.",
+        "isCorrect": false
+      },
+      {
+        "id": "40b",
+        "text": "MITO — O Saque-Aniversário é obrigatório para todos os trabalhadores de carteira assinada.",
+        "isCorrect": false
+      },
+      {
+        "id": "40c",
+        "text": "FATO — Na sistemática do Saque-Aniversário, a demissão sem justa causa libera o saque da multa de 40%, mas não o saldo integral da conta.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "O Saque-Aniversário (Lei nº 8.036/1990, Art. 20-A) é uma modalidade opcional em que o trabalhador retira anualmente uma parcela do saldo no mês de seu aniversário. Em contrapartida, se for dispensado sem justa causa durante a vigência dessa opção, saca a multa rescisória de 40%, mantendo o saldo restante para os saques anuais ou demais hipóteses legais.",
+    "legalBasis": "Lei nº 8.036/1990, Art. 20-A e Art. 20-D",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 41,
+    "category": "fgts_beneficios",
+    "title": "Quantas parcelas tem o Seguro-Desemprego?",
+    "statement": "Afirmação: \"O benefício do Seguro-Desemprego é pago em 3 a 5 parcelas, variando conforme a quantidade de meses trabalhados e se é a primeira, segunda ou terceira solicitação do trabalhador.\"",
+    "options": [
+      {
+        "id": "41a",
+        "text": "FATO — A lei estabelece de 3 a 5 parcelas, observando a carência de meses trabalhados (12 meses na 1ª solicitação, 9 na 2ª e 6 a partir da 3ª).",
+        "isCorrect": true
+      },
+      {
+        "id": "41b",
+        "text": "MITO — Todo trabalhador demitido com 1 mês de carteira assinada já recebe 5 parcelas de seguro-desemprego.",
+        "isCorrect": false
+      },
+      {
+        "id": "41c",
+        "text": "MITO — O seguro-desemprego dura 12 meses fixos para qualquer trabalhador.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "O Seguro-Desemprego fornece assistência financeira temporária ao trabalhador dispensado involuntariamente (sem justa causa). O número de parcelas (de 3 a 5) depende do vínculo acumulado nos últimos 36 meses e de quantas vezes o benefício já foi solicitado anteriormente.",
+    "legalBasis": "Lei nº 7.998/1990, Art. 3º e Art. 4º",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 42,
+    "category": "fgts_beneficios",
+    "title": "Quem tem direito ao PIS/Abono Salarial?",
+    "statement": "Afirmação: \"Tem direito ao Abono Salarial (PIS/PASEP) o trabalhador cadastrado há pelo menos 5 anos no programa, que tenha recebido até 2 salários mínimos médios mensais no ano-base e trabalhado ao menos 30 dias com carteira assinada para empregador contribuinte.\"",
+    "options": [
+      {
+        "id": "42a",
+        "text": "MITO — Qualquer pessoa que abrir uma conta na Caixa recebe 1 salário mínimo de PIS no primeiro mês de emprego.",
+        "isCorrect": false
+      },
+      {
+        "id": "42b",
+        "text": "FATO — Esses são os requisitos cumulativos exigidos em lei (além do correto envio dos dados pelo empregador no eSocial/RAIS).",
+        "isCorrect": true
+      },
+      {
+        "id": "42c",
+        "text": "MITO — O valor do abono salarial é sempre de 1 salário mínimo cheio, mesmo para quem trabalhou apenas 1 mês no ano-base.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "O Abono Salarial anual (PIS/PASEP) exige: 5 anos de cadastro, média salarial de até 2 salários mínimos no ano-base, mínimo de 30 dias trabalhados no ano-base para pessoa jurídica contribuinte e informação regular no eSocial. O valor é proporcional aos meses trabalhados no ano-base (1/12 por mês).",
+    "legalBasis": "Lei nº 7.998/1990, Art. 9º e CF/88, Art. 239, § 3º",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 43,
+    "category": "fgts_beneficios",
+    "title": "A empresa é obrigada a fornecer plano de saúde ou vale-refeição?",
+    "statement": "Afirmação: \"Toda empresa no Brasil é obrigada exclusivamente pelo texto geral da CLT a fornecer plano de saúde privado e vale-refeição a todos os funcionários.\"",
+    "options": [
+      {
+        "id": "43a",
+        "text": "MITO — A CLT não impõe essa obrigação de forma geral; plano de saúde e vale-refeição tornam-se obrigatórios quando previstos em convenção/acordo coletivo da categoria ou no contrato de trabalho.",
+        "isCorrect": true
+      },
+      {
+        "id": "43b",
+        "text": "FATO — A CLT exige que qualquer empregador pague plano médico e refeição diária sob pena de multa automática.",
+        "isCorrect": false
+      },
+      {
+        "id": "43c",
+        "text": "MITO — É proibido às empresas fornecerem vale-alimentação ou plano de saúde.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diferentemente do vale-transporte (que decorre de lei federal geral), benefícios como vale-refeição, vale-alimentação e plano de saúde não são impostos pela CLT a todas as categorias, mas passam a ser obrigatórios sempre que estiverem previstos na Convenção ou Acordo Coletivo do sindicato da categoria ou forem prometidos em contrato/política interna da empresa.",
+    "legalBasis": "CLT, Art. 444, Art. 458, § 2º e Art. 611",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 44,
+    "category": "saude_estabilidade",
+    "title": "Qual a estabilidade da gestante no emprego?",
+    "statement": "Afirmação: \"A trabalhadora gestante possui garantia provisória de emprego (estabilidade) desde a confirmação da gravidez até 5 meses após o parto, não podendo ser dispensada sem justa causa nesse período.\"",
+    "options": [
+      {
+        "id": "44a",
+        "text": "FATO — A estabilidade constitucional da gestante vai da confirmação da concepção até 5 meses após o parto, inclusive se a gravidez ocorrer durante o aviso prévio ou contrato de experiência.",
+        "isCorrect": true
+      },
+      {
+        "id": "44b",
+        "text": "MITO — A estabilidade só começa a valer depois que a empresa é notificada e dura apenas até o dia do parto.",
+        "isCorrect": false
+      },
+      {
+        "id": "44c",
+        "text": "MITO — Empregadas em período de experiência não têm direito à estabilidade gestacional.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A Constituição Federal (ADCT, Art. 10, II, 'b') e o Art. 391-A da CLT garantem a estabilidade da gestante desde a confirmação da gravidez até 5 meses após o parto. O desconhecimento do estado gravídico pelo empregador não afasta o direito (Súmula 244 do TST).",
+    "legalBasis": "ADCT da CF/88, Art. 10, II, 'b'; CLT, Art. 391-A; Súmula 244 do TST",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 45,
+    "category": "saude_estabilidade",
+    "title": "Quem sofre acidente de trabalho tem estabilidade?",
+    "statement": "Afirmação: \"O segurado que sofreu acidente do trabalho tem garantida, pelo prazo mínimo de 12 meses, a manutenção do seu contrato de trabalho na empresa, após a cessação do auxílio-doença acidentário (espécie B91 do INSS).\"",
+    "options": [
+      {
+        "id": "45a",
+        "text": "MITO — A estabilidade após acidente de trabalho é de apenas 30 dias após o retorno.",
+        "isCorrect": false
+      },
+      {
+        "id": "45b",
+        "text": "FATO — A Lei nº 8.213/1991 garante 12 meses de estabilidade no emprego após a alta do auxílio por incapacidade temporária acidentário (ou quando constatada doença profissional equiparada).",
+        "isCorrect": true
+      },
+      {
+        "id": "45c",
+        "text": "MITO — Qualquer gripe comum de 2 dias gera 1 ano de estabilidade acidentária.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Conforme o Art. 118 da Lei nº 8.213/1991 e a Súmula 378 do TST, o trabalhador que sofre acidente de trabalho (ou doença ocupacional a ele equiparada) com afastamento superior a 15 dias e percepção de benefício acidentário (ou reconhecimento de nexo causal após a despedida) tem estabilidade mínima de 12 meses após a alta médica do INSS.",
+    "legalBasis": "Lei nº 8.213/1991, Art. 118 e Súmula 378 do TST",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 46,
+    "category": "saude_estabilidade",
+    "title": "O que é adicional de insalubridade e quanto paga?",
+    "statement": "Afirmação: \"O exercício de trabalho em condições insalubres (exposição a agentes nocivos à saúde acima dos limites de tolerância) assegura adicional de 10% (grau mínimo), 20% (grau médio) ou 40% (grau máximo).\"",
+    "options": [
+      {
+        "id": "46a",
+        "text": "FATO — Os percentuais legais da insalubridade variam em 10%, 20% ou 40% conforme o grau de exposição apurado segundo as Normas Regulamentadoras.",
+        "isCorrect": true
+      },
+      {
+        "id": "46b",
+        "text": "MITO — O adicional de insalubridade tem valor único de 5% para todas as profissões.",
+        "isCorrect": false
+      },
+      {
+        "id": "46c",
+        "text": "MITO — Mesmo que o EPI elimine completamente o agente nocivo, o adicional continua sendo obrigatório para sempre.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "O Art. 192 da CLT prevê que o trabalho em condições insalubres acima dos limites de tolerância garante adicional de 40% (grau máximo), 20% (grau médio) ou 10% (grau mínimo), calculado, em regra, sobre o salário mínimo da região (salvo previsão mais benéfica em convenção coletiva). A neutralização ou eliminação do risco pelo uso eficaz de EPI faz cessar o adicional (Art. 191 da CLT).",
+    "legalBasis": "CLT, Art. 189, Art. 191 e Art. 192; NR-15",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 47,
+    "category": "saude_estabilidade",
+    "title": "O que é adicional de periculosidade e quanto paga?",
+    "statement": "Afirmação: \"O adicional de periculosidade (devido a atividades perigosas com inflamáveis, explosivos, energia elétrica, segurança pessoal/patrimonial ou trabalho em motocicleta) corresponde a 30% sobre o salário-base do empregado.\"",
+    "options": [
+      {
+        "id": "47a",
+        "text": "MITO — Trabalhadores que utilizam motocicleta no exercício de suas atividades nunca têm direito a adicional de periculosidade.",
+        "isCorrect": false
+      },
+      {
+        "id": "47b",
+        "text": "MITO — O adicional de periculosidade é calculado sobre o salário mínimo e vale apenas 10%.",
+        "isCorrect": false
+      },
+      {
+        "id": "47c",
+        "text": "FATO — O trabalho em condições de periculosidade assegura um adicional fixo de 30% sobre o salário-base (sem os acréscimos de gratificações ou prêmios).",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "O Art. 193 da CLT define as atividades perigosas (exposição permanente a inflamáveis, explosivos, energia elétrica, roubos/violência física na segurança patrimonial, além das atividades de trabalhador em motocicleta nos termos da regulamentação) e fixa o adicional em 30% sobre o salário básico do trabalhador.",
+    "legalBasis": "CLT, Art. 193, caput e §§ 1º e 4º; NR-16",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 48,
+    "category": "saude_estabilidade",
+    "title": "Atestado médico pode gerar desconto de horas ou salário?",
+    "statement": "Afirmação: \"Mesmo apresentando atestado médico válido, a empresa pode descontar o dia parado do salário do trabalhador ou obrigá-lo a compensar as horas depois.\"",
+    "options": [
+      {
+        "id": "48a",
+        "text": "FATO — O atestado médico serve apenas para evitar advertência, mas o salário do dia é descontado.",
+        "isCorrect": false
+      },
+      {
+        "id": "48b",
+        "text": "MITO — A ausência por motivo de doença devidamente comprovada por atestado médico válido é falta justificada: abona o dia e o descanso semanal remunerado (DSR), sem desconto salarial nem exigência de compensação.",
+        "isCorrect": true
+      },
+      {
+        "id": "48c",
+        "text": "MITO — O trabalhador deve repor no fim de semana todas as horas em que esteve de atestado médico.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Durante os primeiros 15 dias de afastamento por motivo de doença ou acidente devidamente atestado por médico, cabe à empresa pagar o salário integral do empregado (Lei nº 8.213/1991, Art. 60, § 3º), tratando-se de interrupção contratual remunerada (falta legalmente justificada).",
+    "legalBasis": "CLT, Art. 473; Lei nº 605/1949, Art. 6º; Lei nº 8.213/1991, Art. 60, § 3º",
+    "isMythOrFact": "MITO"
+  },
+  {
+    "id": 49,
+    "category": "saude_estabilidade",
+    "title": "O que configura assédio moral no ambiente de trabalho?",
+    "statement": "Afirmação: \"Condutas abusivas, frequentes e reiteradas que exponham o trabalhador a situações humilhantes, constrangedoras, vexatórias ou de isolamento no ambiente de trabalho configuram assédio moral.\"",
+    "options": [
+      {
+        "id": "49a",
+        "text": "FATO — O assédio moral caracteriza-se pela violência psicológica sistemática ou reiterada que atinge a dignidade e a integridade psíquica do trabalhador.",
+        "isCorrect": true
+      },
+      {
+        "id": "49b",
+        "text": "MITO — O assédio moral só existe se for praticado do empregado contra o chefe.",
+        "isCorrect": false
+      },
+      {
+        "id": "49c",
+        "text": "MITO — Qualquer orientação técnica educada sobre o cumprimento do horário de trabalho é considerada assédio moral.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "O assédio moral distingue-se do exercício normal e respeitoso do poder diretivo do empregador: ele ocorre quando há exposição reiterada a humilhações, xingamentos, metas humanamente inatingíveis com punições vexatórias ou isolamento forçado ('ócio forçado'), violando a dignidade da pessoa humana e o meio ambiente de trabalho saudável.",
+    "legalBasis": "CF/88, Art. 1º, III e Art. 5º, V e X; CLT, Art. 223-A a 223-G e Art. 483",
+    "isMythOrFact": "FATO"
+  },
+  {
+    "id": 50,
+    "category": "saude_estabilidade",
+    "title": "O que é equiparação salarial?",
+    "statement": "Afirmação: \"Sendo idêntica a função, a todo trabalho de igual valor (mesma produtividade e mesma perfeição técnica) prestado ao mesmo empregador e no mesmo estabelecimento empresarial corresponderá igual salário, desde que a diferença de tempo de serviço para o mesmo empregador não seja superior a 4 anos e a diferença de tempo na função não seja superior a 2 anos.\"",
+    "options": [
+      {
+        "id": "50a",
+        "text": "MITO — A lei permite pagar salários diferentes para a mesma função por motivo de sexo, etnia ou idade.",
+        "isCorrect": false
+      },
+      {
+        "id": "50b",
+        "text": "MITO — Dois funcionários com o mesmo nome de cargo na carteira têm direito ao mesmo salário mesmo que trabalhem em empresas diferentes.",
+        "isCorrect": false
+      },
+      {
+        "id": "50c",
+        "text": "FATO — Preenchidos os requisitos legais do Art. 461 da CLT e inexistindo quadro de carreira/plano de cargos e salários válido, é devido o mesmo salário.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "O princípio da isonomia salarial (Art. 461 da CLT) determina que trabalhadores que exercem idêntica função, com igual produtividade e perfeição técnica, no mesmo estabelecimento empresarial, para o mesmo empregador, com diferença de tempo de empresa de até 4 anos e de tempo na função de até 2 anos, têm direito ao mesmo salário, vedada qualquer discriminação por sexo, etnia, nacionalidade ou idade.",
+    "legalBasis": "CLT, Art. 461, caput e § 1º; CF/88, Art. 7º, XXX",
+    "isMythOrFact": "FATO"
+  }
+]
