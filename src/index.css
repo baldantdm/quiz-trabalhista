@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+/* Accessibility utility from modern-web-guidance:
+   Hides content visually but keeps it in the accessibility tree.
+   :focus-within / :active opt elements out for skip links. */
+.visually-hidden:where(:not(:focus-within, :active)) {
+  position: absolute !important;
+  clip-path: inset(50%) !important;
+  overflow: hidden !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: -1px !important;
+  padding: 0 !important;
+  border: 0 !important;
+  white-space: nowrap !important;
+}
+
+.skip-link:focus-visible {
+  position: fixed;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 100;
+  background-color: #1e3a8a;
+  color: #ffffff;
+  padding: 0.625rem 1rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.25);
+}
+
+/* High-contrast visible focus indicators using outline and outline-offset */
+:where(a:any-link, button, input, select, textarea, summary, [tabindex]:not([tabindex="-1"])):focus-visible {
+  outline: 3px solid #1d4ed8;
+  outline-offset: 3px;
+}
+
+/* Native dialog backdrop styling */
+dialog::backdrop {
+  background-color: rgba(15, 23, 42, 0.65);
+  backdrop-filter: blur(2px);
+}
+
+/* Minimum touch target size for coarse pointers */
+@media (pointer: coarse) {
+  button,
+  a:any-link {
+    min-block-size: 28px;
+    min-inline-size: 28px;
+  }
+}
